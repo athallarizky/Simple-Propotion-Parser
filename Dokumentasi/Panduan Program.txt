@@ -1,0 +1,4 @@
+1. Buka Project dengan Netbeans
+2. Run File "Main" di package FiniteAutomata
+3. Masukkan inputan kemudian enter
+4. Ketik 'help' untuk info lanjut 
